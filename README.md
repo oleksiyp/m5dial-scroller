@@ -11,6 +11,6 @@ Gives ability:
 
 ![M5Dial device](m5dial-scroller.jpg)
 
-used for my RSS reader ([e-ink monitor](https://shop.dasung.com/products/dasung-25-3-e-ink-monitor-paperlike-253) + (Raspberry PI 5)[https://www.raspberrypi.com/]):
+used for my RSS reader ([e-ink monitor](https://shop.dasung.com/products/dasung-25-3-e-ink-monitor-paperlike-253) + [Raspberry PI 5](https://www.raspberrypi.com/)):
 
 ![RSS reader](rss-reader.jpg)
